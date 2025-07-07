@@ -41,7 +41,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     FrameworksResDevice \
     LineagePlatformDevice \
-    SystemUIResDevice
+    SystemUIResDevice \
+    WifiResDevice
 
 # Permissions
 PRODUCT_COPY_FILES += \
